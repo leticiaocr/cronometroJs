@@ -20,7 +20,7 @@ Aqui estão as tecnologias utilizadas neste projeto.
 
 * O cronômetro possui as opções iniciar pausar e zerar. 
 * A contagem é iniciada em 00:00:00
-* É possível pausar a contagem e depois iniciar novamente de onde parou
+* É possível pausar a contagem e depois iniciar novamente de onde parou. 
 
 
 ## Demonstração 
@@ -36,8 +36,3 @@ Aqui estão as tecnologias utilizadas neste projeto.
   - Link para acesso: https://leticiaocr.github.io/cronometroJs/
   
   - Repositório: https://github.com/leticiaocr/cronometroJs.git
-
-  ## Autores
-
-  * **Letícia Oliveira** 
-
